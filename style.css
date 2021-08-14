@@ -1,0 +1,50 @@
+.detail{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight:bold;
+    word-spacing:inherit;
+    
+}
+.about-icon{
+ color: black;
+ font-size: 30px;
+ padding-left: 10px;
+ margin-top: 10px;
+ text-decoration: none;
+}
+.about-icon:hover{
+    text-decoration: none;
+}
+#github:hover{
+    color: #4078c0;
+}
+#whatsapp:hover{
+    color:#4FCE5D;
+}
+#instagram:hover{
+    color: #fb3958;
+}
+.about-main-txt{
+    font-size: larger;
+    font-family:serif;
+    font-weight: bolder;
+    color: lightslategrey;
+}
+.about-sub-txt{
+    font-size: large;
+    font-family: cursive;
+    font-weight: bold;
+    color:black;
+    padding-left: 5px;
+}
+/* .row{
+    border:thin solid red;
+} */
+#main-txt{
+    font-size: x-large;
+    font-family: 'Abel', sans-serif;
+    font-weight: bolder;
+    color: gray;
+}
+.container{
+    overflow:auto;
+}
